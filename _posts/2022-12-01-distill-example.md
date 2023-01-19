@@ -10,7 +10,6 @@ htmlwidgets: true
 # authors:
 #   - name: Anonymous
 
-
 authors:
   - name: Albert Einstein
     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
@@ -42,8 +41,6 @@ toc:
   - name: Layouts
   - name: Other Typography?
 
-nani
-
 # Below is an example of injecting additional post-specific styles.
 # This is used in the 'Layouts' section of this post.
 # If you use this post as a template, delete this _styles block.
@@ -63,6 +60,7 @@ _styles: >
     font-size: 16px;
   }
 ---
+
 
 ## Equations
 
