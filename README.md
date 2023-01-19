@@ -5,7 +5,7 @@ Some of their original documentation for using this template is included below, 
 
 ### Links
 mn hk
-Call for blog posts: https://iclr-blogposts.github.io/2023/call
+Call for blog posts:/,;  https://iclr-blogposts.github.io/2023/call
 
 About: https://iclr-blogposts.github.io/2023/about
 
